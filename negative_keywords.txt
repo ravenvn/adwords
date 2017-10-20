@@ -1,12 +1,31 @@
+"bac giang"
+"bac ninh"
 "bao chau"
 "binh duong"
 "bình dương"
 "bảo châu"
+"bắc giang"
+"bắc ninh"
+"can tho"
+"cần thơ"
+"da nang"
 "dang ky lam gia su"
+"gia su sinh vien"
+"gia sư sinh viên"
 "giao trinh"
 "giáo trình"
+"ha nam"
+"hai duong"
+"hai phong"
 "hcm"
 "ho chi minh"
+"hoa binh"
+"hung yen"
+"hà nam"
+"hòa bình"
+"hưng yên"
+"hải dương"
+"hải phòng"
 "hồ chí minh"
 "ke toan"
 "kế toán"
@@ -15,9 +34,17 @@
 "là gì"
 "lý tự trọng"
 "nam dinh"
+"nam dinh"
+"nam định"
 "nam định"
 "nhan van"
 "nhân văn"
+"phu tho"
+"phú thọ"
+"thai binh"
+"thai nguyen"
+"thái bình"
+"thái nguyên"
 "tim viec"
 "toan tam"
 "toàn tâm"
@@ -28,110 +55,9 @@
 "tuyển gia sư"
 "tìm việc"
 "unit"
-"đăng ký làm gia sư"
-[gia su anh van]
-[gia su day hoa]
-[gia su day ly]
-[gia su day sinh]
-[gia su day tieng anh]
-[gia su day toan]
-[gia su day van]
-[gia su day vat ly]
-[gia su ha noi]
-[gia su hoa]
-[gia su ly]
-[gia su mon anh van]
-[gia su mon hoa]
-[gia su mon li]
-[gia su mon ly]
-[gia su mon ngu van]
-[gia su mon sinh hoc]
-[gia su mon sinh]
-[gia su mon tieng anh]
-[gia su mon tieng viet]
-[gia su mon toan]
-[gia su mon van]
-[gia su mon vat ly]
-[gia su ngu van]
-[gia su sinh hoc]
-[gia su sinh]
-[gia su tieng anh]
-[gia su tieng viet]
-[gia su tieu hoc]
-[gia su toan]
-[gia su van]
-[gia su vat ly]
-[gia su]
-[gia sư anh văn]
-[gia sư dạy hóa]
-[gia sư dạy lý]
-[gia sư dạy sinh]
-[gia sư dạy tiếng anh]
-[gia sư dạy toán]
-[gia sư dạy văn]
-[gia sư dạy vật lý]
-[gia sư hà nội]
-[gia sư hóa]
-[gia sư lí]
-[gia sư lý]
-[gia sư môn anh văn]
-[gia sư môn hóa]
-[gia sư môn lý]
-[gia sư môn ngữ văn]
-[gia sư môn sinh học]
-[gia sư môn sinh]
-[gia sư môn tiếng anh]
-[gia sư môn tiếng việt]
-[gia sư môn toán]
-[gia sư môn văn]
-[gia sư môn vật lý]
-[gia sư ngữ văn]
-[gia sư sinh học]
-[gia sư sinh]
-[gia sư tiếng anh]
-[gia sư tiếng việt]
-[gia sư tiểu học]
-[gia sư toán]
-[gia sư văn]
-[gia sư vật lí]
-[gia sư vật lý]
-[gia sư]
-[tim gia su]
-[tìm gia sư]
-"hai phong"
-"hải phòng"
-"nam định"
-"nam dinh"
-"thái bình"
-"thai binh"
-"hòa bình"
-"hoa binh"
-"thái nguyên"
-"thai nguyen"
-"bắc giang"
-"bac giang"
-"bắc ninh"
-"bac ninh"
 "vinh phuc"
 "vĩnh phúc"
-"phú thọ"
-"phu tho"
-"hà nam"
-"ha nam"
 "đà nẵng"
-"da nang"
-"hưng yên"
-"hung yen"
-"hải dương"
-"hai duong"
-[sinh viên dạy kèm]
-[gia sư dạy kèm]
-[giáo viên dạy kèm]
-[gia sư tại nhà]
-[gia sư dạy tại nhà]
-[sinh viên dạy tại nhà]
-[giáo viên dạy tại nhà]
-"gia sư sinh viên"
-"gia su sinh vien"
-"can tho"
-"cần thơ"
+"đăng ký làm gia sư"
+[gia su]
+[gia sư]
